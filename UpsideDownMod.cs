@@ -4,8 +4,9 @@ namespace ReversedGravityMod
 {
 	class ReversedGravityMod : Mod
 	{
-        public ReversedGravityMod()
+		public ReversedGravityMod()
 		{
-        }
+		
+		}
 	}
 }
