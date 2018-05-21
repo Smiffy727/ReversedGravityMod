@@ -1,0 +1,7 @@
+author = Smiffy
+version = 0.1.2
+displayName = Reversed Gravity Mod
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
